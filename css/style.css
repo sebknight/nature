@@ -1,0 +1,33 @@
+body, html, .container {
+    margin: 0 auto;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+
+.navigation {
+    width: 100%;
+}
+
+.navigation > ul {
+    /* width: 100%; */
+    list-style: none;
+}
+
+li {
+    display: inline;
+    margin-right: 10%;
+}
+
+.column { 
+    height: 100%;
+    align-content: center;
+    justify-content: center;
+}
+.index-body {
+    height: 100%;
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+}
